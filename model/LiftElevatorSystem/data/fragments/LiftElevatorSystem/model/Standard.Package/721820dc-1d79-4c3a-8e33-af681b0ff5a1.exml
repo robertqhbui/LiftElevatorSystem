@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Commons" version="4">
+  <OBJECT>
+    <ID name="Commons" mc="Standard.Package" uid="721820dc-1d79-4c3a-8e33-af681b0ff5a1"/>
+    <PID name="LogicalView" mc="Standard.Package" uid="54e3156e-7740-44c6-88df-6448e4628a2e"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Commons]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="UserInterface" mc="Standard.Package" uid="d806967b-7f71-44f7-96b8-a722a8d43cb5"/>
+        <COMPID name="Types" mc="Standard.Package" uid="bfccded9-3b51-4818-99e1-4a7672c616c6"/>
+        <COMPID name="Directions" mc="Standard.Package" uid="fb8af6c2-a297-43d2-9453-a918ccb0be03"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Commons Class diagram" mc="Standard.ClassDiagram" uid="a0f56d4e-e1a9-4cbd-ad6b-23d8dfd0037e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

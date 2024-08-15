@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="LiftCars" version="4">
+  <OBJECT>
+    <ID name="LiftCars" mc="Standard.Package" uid="6aa64c92-6ac8-4a5a-ac50-209795599547"/>
+    <PID name="LogicalView" mc="Standard.Package" uid="54e3156e-7740-44c6-88df-6448e4628a2e"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[LiftCars]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="LiftCar" mc="Standard.Class" uid="948e83bf-3d78-4e3d-94cc-2595b6fdab31"/>
+        <COMPID name="States" mc="Standard.Package" uid="e794b8f6-d42f-4f21-b85d-2957b68d3332"/>
+      </COMP>
+      <COMP relation="DependsOnDependency">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Dependency" uid="87c53381-3575-47e4-93ab-466a9b7f6786"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="DependsOn">
+              <ID name="Communications" mc="Standard.Package" uid="bbc14ea0-1c4b-452b-9e9a-578c51da04ce"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="" mc="Standard.Usage" uid="3643983b-6661-4725-9121-f9a224cd2288"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="DependsOn">
+              <ID name="Commons" mc="Standard.Package" uid="721820dc-1d79-4c3a-8e33-af681b0ff5a1"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="LiftCars Class diagram" mc="Standard.ClassDiagram" uid="9139dcc2-ce39-4824-b1d3-ad82a0ee822a"/>
+        <COMPID name="Control Panel Comm Port Class diagram" mc="Standard.ClassDiagram" uid="c18a58f2-cd0d-4806-9a11-f5c518caaf45"/>
+        <COMPID name="Message Bus Client Class diagram" mc="Standard.ClassDiagram" uid="31acf42b-510d-4abf-80b9-14d5d3ed06f9"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

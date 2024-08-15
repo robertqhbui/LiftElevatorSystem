@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="LiftController" version="4">
+  <OBJECT>
+    <ID name="LiftController" mc="Standard.Node" uid="3500cb45-4186-435a-981a-1f599a1de75e"/>
+    <PID name="DeploymentView" mc="Standard.Package" uid="187a9e98-1667-466e-9337-0626c1d6eb30"/>
+    <ATTRIBUTES>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[LiftController]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedEnd">
+        <REFOBJ>
+          <ID name="messageBus" mc="Standard.AssociationEnd" uid="412775b0-d02a-4281-bfad-44590541b20b"/>
+        </REFOBJ>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

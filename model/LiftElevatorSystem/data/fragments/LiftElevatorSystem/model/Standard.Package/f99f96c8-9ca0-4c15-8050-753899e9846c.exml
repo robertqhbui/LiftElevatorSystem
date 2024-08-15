@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="liftelevatorsystem" version="4">
+  <OBJECT>
+    <ID name="liftelevatorsystem" mc="Standard.Package" uid="f99f96c8-9ca0-4c15-8050-753899e9846c"/>
+    <PID name="LiftElevatorSystem" mc="Standard.Project" uid="36f1c54d-e5ad-461c-8ba2-37aecd6027ff"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[liftelevatorsystem]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Design" mc="Standard.Package" uid="a1adcd14-97e9-4362-ae4c-52f77c74f80c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

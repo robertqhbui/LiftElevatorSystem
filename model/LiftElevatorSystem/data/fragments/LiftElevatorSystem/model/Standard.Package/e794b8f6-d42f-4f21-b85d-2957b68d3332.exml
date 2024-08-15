@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="States" version="4">
+  <OBJECT>
+    <ID name="States" mc="Standard.Package" uid="e794b8f6-d42f-4f21-b85d-2957b68d3332"/>
+    <PID name="LiftCars" mc="Standard.Package" uid="6aa64c92-6ac8-4a5a-ac50-209795599547"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[States]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="OperationState" mc="Standard.Class" uid="05fa7f19-fd19-475d-b7ce-090fa71e980b"/>
+        <COMPID name="OperationIdleState" mc="Standard.Class" uid="9216a53b-a24b-4e0a-8e35-012990d88c4b"/>
+        <COMPID name="OperationMovingState" mc="Standard.Class" uid="c43b2764-620f-497c-982c-68f8377cb722"/>
+        <COMPID name="OperationStoppedState" mc="Standard.Class" uid="1b879b26-7420-4edf-9734-ae900c9e80c5"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Operation State Class Diagram" mc="Standard.ClassDiagram" uid="df39c1a6-1c94-419a-834b-842f49eed470"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

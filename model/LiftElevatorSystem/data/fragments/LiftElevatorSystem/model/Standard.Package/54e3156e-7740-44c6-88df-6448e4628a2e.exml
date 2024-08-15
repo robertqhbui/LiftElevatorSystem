@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="LogicalView" version="4">
+  <OBJECT>
+    <ID name="LogicalView" mc="Standard.Package" uid="54e3156e-7740-44c6-88df-6448e4628a2e"/>
+    <PID name="Design" mc="Standard.Package" uid="a1adcd14-97e9-4362-ae4c-52f77c74f80c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[LogicalView]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Controller" mc="Standard.Package" uid="eabf3992-5528-432c-b858-6a83a26ea113"/>
+        <COMPID name="Facility" mc="Standard.Package" uid="2811727f-c4f3-477f-a44d-69434fe8f87a"/>
+        <COMPID name="LiftCars" mc="Standard.Package" uid="6aa64c92-6ac8-4a5a-ac50-209795599547"/>
+        <COMPID name="Communications" mc="Standard.Package" uid="bbc14ea0-1c4b-452b-9e9a-578c51da04ce"/>
+        <COMPID name="Commons" mc="Standard.Package" uid="721820dc-1d79-4c3a-8e33-af681b0ff5a1"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="System Architecture Diagram" mc="Standard.ClassDiagram" uid="3785bb3e-1deb-4655-b415-1e2e61c70707"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

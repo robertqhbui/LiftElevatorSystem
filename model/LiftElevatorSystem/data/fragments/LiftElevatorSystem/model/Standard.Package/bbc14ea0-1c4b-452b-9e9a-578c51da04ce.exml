@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Communications" version="4">
+  <OBJECT>
+    <ID name="Communications" mc="Standard.Package" uid="bbc14ea0-1c4b-452b-9e9a-578c51da04ce"/>
+    <PID name="LogicalView" mc="Standard.Package" uid="54e3156e-7740-44c6-88df-6448e4628a2e"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Communications]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="MessageBus" mc="Standard.Class" uid="04df7ab8-ac9b-441d-8a5c-eff9df33c6ce"/>
+        <COMPID name="ApacheActiveMQ" mc="Standard.Package" uid="470a3028-a14f-4976-8c1d-e3acd884014b"/>
+        <COMPID name="MessageBusClient" mc="Standard.Class" uid="b5653820-19c4-4bb0-9f39-bb1c5f761280"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Communications Class diagram" mc="Standard.ClassDiagram" uid="3954f2fd-6c25-4605-912a-e133fd4eccb0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

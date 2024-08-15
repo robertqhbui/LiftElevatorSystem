@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="LiftElevatorSystem" version="4">
+  <OBJECT>
+    <ID name="LiftElevatorSystem" mc="Standard.Project" uid="36f1c54d-e5ad-461c-8ba2-37aecd6027ff"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[LiftElevatorSystem]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="liftelevatorsystem" mc="Standard.Package" uid="f99f96c8-9ca0-4c15-8050-753899e9846c"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="LiftElevatorSystem" mc="Infrastructure.DiagramSet" uid="aa0e532f-4bdf-43d1-9bf3-669c9854deea"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

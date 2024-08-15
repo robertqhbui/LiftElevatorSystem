@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="UserInterface" version="4">
+  <OBJECT>
+    <ID name="UserInterface" mc="Standard.Package" uid="d806967b-7f71-44f7-96b8-a722a8d43cb5"/>
+    <PID name="Commons" mc="Standard.Package" uid="721820dc-1d79-4c3a-8e33-af681b0ff5a1"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[UserInterface]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ControlPanel" mc="Standard.Class" uid="e757262b-6c03-49eb-9f27-5e8c231a8a14"/>
+        <COMPID name="DigitalControlPanel" mc="Standard.Class" uid="b15a5f83-b498-4833-b675-eea7d2ac4aa2"/>
+        <COMPID name="AnalogueControlPanel" mc="Standard.Class" uid="79b5edd3-b20a-4a03-93d3-353be0bd303c"/>
+        <COMPID name="Button" mc="Standard.Class" uid="0a597fa2-0d7d-4d1f-ba93-3dd73d5e514f"/>
+        <COMPID name="DigitalButton" mc="Standard.Class" uid="30ebbf3f-709b-4e4f-9dca-59b9ff737755"/>
+        <COMPID name="AnalogueButton" mc="Standard.Class" uid="2771a37c-eb15-4882-b50a-0d32481cd23a"/>
+        <COMPID name="ControlPanelPort" mc="Standard.Class" uid="e19c5d4e-b9ea-4e45-a650-0c27e6548928"/>
+        <COMPID name="Door" mc="Standard.Class" uid="2d772d30-3042-45d5-baad-ce23b3d502ad"/>
+        <COMPID name="DoorOperationState" mc="Standard.Class" uid="59aaed19-412c-41b8-af93-afd1c251799d"/>
+        <COMPID name="DoorClosedOperationState" mc="Standard.Class" uid="15c3586b-74c7-4813-983c-4494e70ff6da"/>
+        <COMPID name="DoorOpenedOperationState" mc="Standard.Class" uid="6faddcbf-0e9f-4605-ad8d-7d62090a0ee0"/>
+        <COMPID name="SingleDoor" mc="Standard.Class" uid="a3f29471-3f65-4891-a1ea-916a4c38e464"/>
+        <COMPID name="DoubleDoor" mc="Standard.Class" uid="fc44d5ff-3fe4-493e-b38e-e8552a9afe7b"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="ControlPanel Class Diagram" mc="Standard.ClassDiagram" uid="2ad8665c-8028-44bc-8110-248a114a1d45"/>
+        <COMPID name="Doors Class diagram" mc="Standard.ClassDiagram" uid="2679cbff-61dd-4cfc-87bf-961bddb0a4d7"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

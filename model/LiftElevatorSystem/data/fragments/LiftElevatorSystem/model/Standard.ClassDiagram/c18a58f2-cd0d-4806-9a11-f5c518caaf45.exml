@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Control Panel Comm Port Class diagram" version="4">
+  <OBJECT>
+    <ID name="Control Panel Comm Port Class diagram" mc="Standard.ClassDiagram" uid="c18a58f2-cd0d-4806-9a11-f5c518caaf45"/>
+    <PID name="LiftCars" mc="Standard.Package" uid="6aa64c92-6ac8-4a5a-ac50-209795599547"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">12</ATT>
+      <ATT name="UiData"><![CDATA[eJztmlFv4jgQgP9KxDshSYGlKttVCyuuWrZFcLfS3Us1JAP11omRbbalv37tQLgCLWtCCKjKE8kEj8fxN5OZTJpfnkNq/UIuCIs+l1zbKVlfLpt3w5/oS4sESlSy5GyCn0uMj+2QBUgJs6chtYUESR4DAmMOoY0BkYzbSDHESIr5VT+52gkH8Xl7fl6yQvjJ+P1yXqd02exxNkEuZ1YEoZqOwoxNZRskqGs/gE5xYUc0pbRUuWxWkgEbQwdyRrG0sgrvrVUk1gn9f2H7jKM9H2tgXwuEDwEGyWRfn2UfR4az3CoVi5EWPsv28EbZGB/qgxYbApVra6zMV7Nt3RwpSAyUGWu37LsWWb+0RN8diALggd2iIMRiRyzfbUCtMfLKfuAE5WrDqZfPwXXLo5pfcxs+wKha237XlTb5LWJPUReGSNcsGEhOonHpssUiyRm1ehAhtVosDK0e49KKbbEWt6pZiYduXSqjeBOp8RMmiFR79M58BqpaD4QGHLWGLhFyBZuzdPD7FF5eFPTxqvaCva8sgWisOVlsX9VxLty6e3HmeBcNZ2dHqB7cEbQXzF0uF4AtdM/9WlDF8vAcoVzFaq0M9ZpTdnzvE9Zr1ca518iO3BhcjezpQFrLANIeJyHw2a0anTGvzoWTltW6KatK1fNsb2CrBbCGwH4HEmlU9gT3UzpwtWIxAR8fUG0jVwjfJpK/Ykn+6UUjX1LrBamGpM6BMFAoHtjTPfE3FF0zNRNEyzs0Aipw+5pjVY84e2I8yECbBP/xXkjkyP6gTfKpiWn0ja3YXRUMheTgy90VLWl95UDnqZ9hQpARiaNAa3nSR0FeYEixw9l0kn84cJ0iHpxmPNjzieWmrIZBqvmHU4ljDaRi9SoRHItQ44I4G0Ld9eyvQPQ9RFfRSANsZfGzPeS6KYtbrRO0/QnLd4ngWCwb17QFy3kXCigfWHBokFMWwCRSSVWkMjCVo/hyqvjohDcL2SCRHQHnnMveAmdjnBM69s0iUha+RsAeKwjnXAK7HyznzZDSQ4fblLWaEb3/segIIdfLuV77aPAeMORqIDJm2QxzL2WpR6IIefxeIuZbnezfBdJuMtbvNRe7XHZ3R7wo+E4V8RiSPVMKL2Ux9w6tR0oivJwrOa/oUZ5IUuGlruHe5BfFkRKJnGu3AuATTSQ2L63NQ8QPdUZ8SNGJMZ9ls7tvLzD7Q4ZxZtCz8dKWsSGMcdnEjbtR2nm1VDdyB1o6hyTLnGm9u2/gzDmXtMX3B6a+PFCLppRIE4f+CI1dU9tSdnYzCWhdEj2KLVFz7e/X4zaHJ7WbXZgpL111vDffMCzDSRJHgrkCYVOtQoWQFY35PPt3G3XcDzTJOrSJO7U7dvfq36/9++ur1rdO/+6f23bWT8p3tbzes//xef0J5tZ3MwUMB4Ph77vewfOljXRl5TNxw1xl/WVIMt9vPQB2Fw==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUIAAABkCAIAAAB8Ta5UAAADZ0lEQVR4nO3Yv1HbYBzH4QyRSbIBSzCBmwzABkxAS0GRlrvc0dFTULv2EGyQgP5Y7yskCwdj5Xv3/O4pwOheWYc+lqxvf4wx4fNt7TdgjPnsyNiY+JGxMfEjY2PiR8bGxI+MjYkfGRsTPzI2Jn5kbEz8LGT8/cdPYF0nyHi7ewHWImOIJ2OI99rgr99PMoZgMoZ4Ml7L7vpyeMy4uf/6Pd7fvu7o4ma3fXq4qB9ynmbvX70+82S8hvZEv3puf328uf7Hc/3+9i2bj23c7OX6+qnrrd9d+2lye/fpgzrZ+sccFC0Zn9/BM7u4lPVnc7P95cNjk0ebSlt+/2u7we3msvvr1CIvd1fdTpsfms3q17fd+gu7rt/kxDqz688eWvfON1flQa3+b0oi47NrzubpC055lR6uac+b9uR+fb3YYMij26BubLxIH+ToQ6Tts1+5fVfvVh7t+u3FZsv9mh9df+bQpprnGDI+u+qeszLcl7792pziowCGn4uE6s+FA4s02/Rl7vX39nvj62e963L94eel9ZfeVft6+bnAEWR8bge+CVfXon1CZfb1dawLoP5cWFhk/yBqvPfqkVvX0tSum/VL9ffhmfWXD21XHxTHkPHZTZ27bTbVud5vNn31KxZpXhxuRA8vMvMhUt4J95fK3fSuJ+97l9Y/8K6KpebvUzhMxuc3dLvtzu8yyKmvstXGb+d9Edj4RnRqkdnnT9VbGtJ9/9V39CSseJBWf1GfWX/50LbjG2+OIONVlF8gqytbccs6vjZWP/dPlTf35QaLi8x++dw/+r643Pc2s+ty/fFfD325PXhoL/VBrf4PCiNjiCdjiCdjiCdjiCdjiCdjiHeajIF1uRpDNhlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDPBlDvNNkDKzrsxnv53UhYC2nydgY89+OjI2JHxkbEz8yNiZ+ZGxM/MjYmPiRsTHxI2Nj4kfGxsSPjI2Jn7/pqqubNhh7WgAAAABJRU5ErkJggg==]]></ATT>
+      <ATT name="JsStructure"><![CDATA[e19c5d4e-b9ea-4e45-a650-0c27e6548928,Standard.Class,10,10,302,80]]></ATT>
+      <ATT name="Name"><![CDATA[Control Panel Comm Port Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="ControlPanelPort" mc="Standard.Class" uid="e19c5d4e-b9ea-4e45-a650-0c27e6548928"/>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="27112337-6d58-4b93-a650-84b49c69611b"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

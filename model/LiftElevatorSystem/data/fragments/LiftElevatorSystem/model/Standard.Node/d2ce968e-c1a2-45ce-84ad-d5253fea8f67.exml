@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="LiftCar" version="4">
+  <OBJECT>
+    <ID name="LiftCar" mc="Standard.Node" uid="d2ce968e-c1a2-45ce-84ad-d5253fea8f67"/>
+    <PID name="DeploymentView" mc="Standard.Package" uid="187a9e98-1667-466e-9337-0626c1d6eb30"/>
+    <ATTRIBUTES>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[LiftCar]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedEnd">
+        <REFOBJ>
+          <ID name="messageBus" mc="Standard.AssociationEnd" uid="d368aebf-6390-4ca7-92d8-77d648b75376"/>
+        </REFOBJ>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
