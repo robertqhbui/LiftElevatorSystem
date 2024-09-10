@@ -1,0 +1,12 @@
+package com.robertbui.liftelevatorsystem.common.types;
+
+
+public enum LiftMessageType
+{
+	REQUEST_LIFT_MESSAGE_TYPE,
+	REQUEST_FLOOR_MESSAGE_TYPE,
+	REQUEST_OPEN_DOOR_MESSAGE_TYPE,
+	REQUEST_CLOSE_DOOR_MESSAGE_TYPE,
+	REQUEST_ASSISTANCE_MESSAGE_TYPE;
+	
+}

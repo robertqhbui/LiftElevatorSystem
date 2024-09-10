@@ -36,4 +36,11 @@ public class VerticalLiftCar extends LiftCar
 
 	}
 
+	@Override
+	public void setup()
+	{
+		this.mControlPanel.addButton(com.robertbui.liftelevatorsystem.common.types.LiftMessageType.REQUEST_CLOSE_DOOR_MESSAGE_TYPE, "Close Door");
+		this.mControlPanel.addButton(com.robertbui.liftelevatorsystem.common.types.LiftMessageType.REQUEST_OPEN_DOOR_MESSAGE_TYPE, "Open Door");
+	}
+
 }
